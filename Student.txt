@@ -1,0 +1,30 @@
+ID       : 1
+Name     : Fasahat Raza
+Course   : B.Tech
+Phone    : +91 7500939586
+Address  : Rampur
+-----------------------------
+ID       : 2
+Name     : Amit
+Course   : B.Tech
+Phone    : +91 9256487852
+Address  : Zoya
+-----------------------------
+ID       : 3
+Name     : Keshav Sharma
+Course   : B.Tech
+Phone    : +916398654215
+Address  : Moradabad
+-----------------------------
+ID       : 4
+Name     : Furkan Saifi
+Course   : ITI
+Phone    : +917055884565
+Address  : Bareilly
+-----------------------------
+ID       : 5
+Name     : Hamza
+Course   : Diploma
+Phone    : +918958476253
+Address  : Noida
+-----------------------------
