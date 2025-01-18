@@ -1,0 +1,1 @@
+This is a console- based application which is developed in java using file Handling. In this application user can manage students records by performing some operations like adding student, deleting student and can search the student as well. All the data of student will be saved in a file named student.txt
